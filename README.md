@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Oluwaseyi34
+- 👋 Hi, I’m @Oluwaseyi Odeyemi
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning SQL, R and Power BI
+- 🌱 I’m currently learning SQL, Excel and Power BI
 - 💞️ I’m looking for data analytics internship and data analytics entry role
 - 📫 Email : odeyemioluwaseyi8@gmail.com, Twitter URL: https://www.twitter.com/OluwaseyiOdeye1
 
